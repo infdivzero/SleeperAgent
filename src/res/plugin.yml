@@ -1,0 +1,12 @@
+name: SleeperAgent
+main: me.stew.sleeperagent.SleeperAgent
+version: 0.0a
+api-version: 1.17
+
+commands:
+  sleeperon:
+    usage: "Usage: /sleeperon"
+    description: "Enables the sleeper agent player scanner."
+  sleeperoff:
+    usage: "Usage: /sleeperoff"
+    description: "Disables the sleeper agent player scanner."
